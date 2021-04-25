@@ -17,3 +17,4 @@
 ## Checklist:
 - [ ] I have read the [Code of Conduct](https://github.com/danopstech/.github/blob/main/CODE_OF_CONDUCT.md)
 - [ ] I have updated the documentation accordingly.
+- [ ] All commits are GPG signed
