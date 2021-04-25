@@ -15,5 +15,5 @@
 - [ ] Chore (non-breaking change that does not add functionality or fix an issue)
 
 ## Checklist:
-- [ ] I have read the **CONTRIBUTING** document.
+- [ ] I have read the [Code of Conduct](https://github.com/danopstech/.github/blob/main/CODE_OF_CONDUCT.md)
 - [ ] I have updated the documentation accordingly.
